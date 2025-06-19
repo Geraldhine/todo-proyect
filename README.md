@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # 📋 Task Manager — Aplicación de Gestión de Tareas
 
 Task Manager es una aplicación web sencilla pero potente para la gestión de tareas personales, desarrollada con **Laravel**, **Livewire**, **Blade Components personalizados** (`flux:*`) y **Tailwind CSS**.
